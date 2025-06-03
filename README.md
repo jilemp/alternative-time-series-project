@@ -6,7 +6,7 @@ This notebook explores and analyzes a time series dataset, following key steps t
 
 ## 📁 File Contents
 
-- `explore (3).ipynb` — Jupyter Notebook containing:
+- `explore.ipynb` — Jupyter Notebook containing:
   - Data preparation
   - Time series construction
   - Trend analysis
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 3. Run the notebook
 
 ```bash
-jupyter notebook "explore (3).ipynb"
+jupyter notebook "explore.ipynb"
 ```
 
 ---
